@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
@@ -86,6 +88,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
