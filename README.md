@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -88,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
