@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Moral-Victory/Leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Moral-Victory/Leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
