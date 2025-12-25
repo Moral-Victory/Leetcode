@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Moral-Victory/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Moral-Victory/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Moral-Victory/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
+| [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
 |  |
