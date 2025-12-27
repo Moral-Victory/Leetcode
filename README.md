@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Moral-Victory/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
