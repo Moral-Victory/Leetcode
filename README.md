@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Moral-Victory/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Moral-Victory/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Moral-Victory/Leetcode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Moral-Victory/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
