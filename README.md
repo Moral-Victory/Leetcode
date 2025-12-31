@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Moral-Victory/Leetcode/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Queue
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
