@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Moral-Victory/Leetcode/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Moral-Victory/Leetcode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Moral-Victory/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
