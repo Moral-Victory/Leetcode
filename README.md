@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Topological Sort
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Enumeration
 |  |
 | ------- |
