@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Moral-Victory/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Moral-Victory/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Moral-Victory/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0872-leaf-similar-trees](https://github.com/Moral-Victory/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Moral-Victory/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Moral-Victory/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
