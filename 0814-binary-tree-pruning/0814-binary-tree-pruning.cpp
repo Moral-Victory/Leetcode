@@ -11,26 +11,34 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root){
+    bool solve(TreeNode* root){
         if(root==nullptr){
-            return 0;
+            return false;
         }
-        int l = solve(root->left);
-        int r = solve(root->right);
-        int sum=l + r + root->val;
-        if(l==0){
-            root->left=nullptr;
+        if(root->val==1){
+            return true;
         }
-        if(r==0){
-            root->right=nullptr;
-        }
-        return sum;
+
+        return solve(root->left)||solve(root->right);
     }
 
     TreeNode* pruneTree(TreeNode* root) {
-        if(solve(root)==0){
+        if(root==nullptr){
+            return nullptr;
+        }
+        if(!solve(root->left)){
+            root->left=nullptr;
+        }
+        if(!solve(root->right)){
+            root->right=nullptr;
+        }
+        pruneTree(root->left);
+        pruneTree(root->right);
+
+        if(root->left==nullptr && root->right==nullptr && root->val==0){
             return nullptr;
         }
         return root;
+
     }
 };
