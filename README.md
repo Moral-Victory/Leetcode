@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Moral-Victory/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Moral-Victory/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Moral-Victory/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Moral-Victory/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Moral-Victory/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Moral-Victory/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Moral-Victory/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
