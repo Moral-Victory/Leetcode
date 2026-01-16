@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Moral-Victory/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -344,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
