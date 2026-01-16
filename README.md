@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Moral-Victory/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3453-separate-squares-i](https://github.com/Moral-Victory/Leetcode/tree/master/3453-separate-squares-i) |
 ## Stack
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Moral-Victory/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Recursion
 |  |
