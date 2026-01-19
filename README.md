@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Moral-Victory/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3453-separate-squares-i](https://github.com/Moral-Victory/Leetcode/tree/master/3453-separate-squares-i) |
 ## Binary Tree
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1219-path-with-maximum-gold](https://github.com/Moral-Victory/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Moral-Victory/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Moral-Victory/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Moral-Victory/Leetcode/tree/master/1390-four-divisors) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Moral-Victory/Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Moral-Victory/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/Moral-Victory/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -356,5 +359,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Moral-Victory/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Moral-Victory/Leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
