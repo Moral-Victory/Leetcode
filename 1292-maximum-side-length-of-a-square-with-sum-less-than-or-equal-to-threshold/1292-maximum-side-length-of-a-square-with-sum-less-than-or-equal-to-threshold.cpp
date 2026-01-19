@@ -1,60 +1,49 @@
 class Solution {
 public:
-    int m;
-    int n;
-    vector<vector<int>> rows;
-    vector<vector<int>> cols;
-    void prefix_sum_rows(vector<vector<int>>& mat) {
-        m = mat.size();
-        n = mat[0].size();
-        rows.assign(m, vector<int>(n, 0));
-        for (int i = 0; i < m; i++) {
-            int rowsum = 0;
-            for (int j = 0; j < n; j++) {
-                rowsum += mat[i][j];
-                rows[i][j] = rowsum;
-            }
-        }
-    }
-    void prefix_sum_cols(vector<vector<int>>& mat) {
-        m = mat.size();
-        n = mat[0].size();
-        cols.assign(m, vector<int>(n, 0));
-        for (int j = 0; j < n; j++) {
-            int colsum = 0;
-            for (int i = 0; i < m; i++) {
-                colsum += mat[i][j];
-                cols[i][j] = colsum;
-            }
-        }
-    }
-
     int maxSideLength(vector<vector<int>>& mat, int threshold) {
         int m = mat.size();
         int n = mat[0].size();
 
-        prefix_sum_rows(mat);
-        prefix_sum_cols(mat);
-        for (int side = min(m, n); side > 0; side--) {
-            for (int i = 0; i + side - 1 < m; i++) {
-                for (int j = 0; j + side - 1 < n; j++) {
-                    bool sign = true;
-                    int sum=0;
-                    for (int r = i; r < i + side; r++) {
-                        sum+= (rows[r][j + side - 1] -
-                                  (j > 0 ? rows[r][j - 1] : 0));
-                        if (sum > threshold) {
-                            sign = false;
-                            break;
-                        }
+        vector<vector<int>> prefix(m, vector<int>(n, 0));
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                prefix[i][j] = (i > 0 ? prefix[i - 1][j] : 0) +
+                               (j > 0 ? prefix[i][j - 1] : 0) -
+                               ((i > 0 && j > 0) ? prefix[i - 1][j - 1] : 0) +
+                               mat[i][j];
+            }
+        }
+
+        auto find_sum = [&](int i, int j, int r, int c) {
+            int sum = prefix[r][c];
+            if (i > 0) {
+                sum -= prefix[i - 1][c];
+            }
+            if (j > 0) {
+                sum -= prefix[r][j - 1];
+            }
+            if (i > 0 && j > 0) {
+                sum += prefix[i - 1][j - 1];
+            }
+            return sum;
+        };
+        int ans = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int offset = ans; offset <= min(n - j - 1, m - i - 1);
+                     offset++) {
+                    int r = i + offset;
+                    int c = j + offset;
+                    int sum = find_sum(i, j, r, c);
+                    if (sum <= threshold) {
+                        ans = max(ans, offset + 1);
+                    } else {
+                        break;
                     }
-                    // if (sign == false) {
-                    //     continue;
-                    // }
-                    if (sign) return side;
                 }
             }
         }
-        return 0;
+        return ans;
     }
 };
