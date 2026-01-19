@@ -29,21 +29,47 @@ public:
             return sum;
         };
         int ans = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int offset = ans; offset <= min(n - j - 1, m - i - 1);
-                     offset++) {
-                    int r = i + offset;
-                    int c = j + offset;
-                    int sum = find_sum(i, j, r, c);
-                    if (sum <= threshold) {
-                        ans = max(ans, offset + 1);
-                    } else {
-                        break;
+        // for (int i = 0; i < m; i++) {
+        //     for (int j = 0; j < n; j++) {
+        //         for (int offset = ans; offset <= min(n - j - 1, m - i - 1);
+        //              offset++) {
+        //             int r = i + offset;
+        //             int c = j + offset;
+        //             int sum = find_sum(i, j, r, c);
+        //             if (sum <= threshold) {
+        //                 ans = max(ans, offset + 1);
+        //             } else {
+        //                 break;
+        //             }
+        //         }
+        //     }
+        // }
+        auto check=[&](int side){
+            for(int i=0; i+side-1<m; i++){
+                for(int j=0; j+side-1<n; j++){
+                    int r=i+side-1;
+                    int c=j+side-1;
+                    if(find_sum(i, j, r, c)<=threshold){
+                        return true;
                     }
                 }
             }
+            return false;
+        };
+
+        int low=1;
+        int high=min(m, n);
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(check(mid)){
+                ans=mid;
+                low=mid+1;
+            }
+            else{
+                high=mid-1;
+            }
         }
+
         return ans;
     }
 };
