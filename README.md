@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Moral-Victory/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Moral-Victory/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Moral-Victory/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Moral-Victory/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Moral-Victory/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Moral-Victory/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Moral-Victory/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Moral-Victory/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Moral-Victory/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Moral-Victory/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Moral-Victory/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
