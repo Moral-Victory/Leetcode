@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Moral-Victory/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Moral-Victory/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Moral-Victory/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Moral-Victory/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Moral-Victory/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1361-validate-binary-tree-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Sorting
 |  |
