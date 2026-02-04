@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Moral-Victory/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Moral-Victory/Leetcode/tree/master/1895-largest-magic-square) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Moral-Victory/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Moral-Victory/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Moral-Victory/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Moral-Victory/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/Moral-Victory/Leetcode/tree/master/1895-largest-magic-square) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Moral-Victory/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Dynamic Programming
 |  |
