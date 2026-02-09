@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Moral-Victory/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Iterator
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Moral-Victory/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Memoization
 |  |
 | ------- |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Moral-Victory/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Moral-Victory/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Moral-Victory/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
