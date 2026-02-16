@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Moral-Victory/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1859-sorting-the-sentence](https://github.com/Moral-Victory/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Moral-Victory/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/Moral-Victory/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1859-sorting-the-sentence](https://github.com/Moral-Victory/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Moral-Victory/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Moral-Victory/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Moral-Victory/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
