@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Moral-Victory/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Moral-Victory/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Moral-Victory/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Moral-Victory/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Moral-Victory/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Moral-Victory/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Moral-Victory/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Moral-Victory/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Heap (Priority Queue)
