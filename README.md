@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Moral-Victory/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0409-longest-palindrome](https://github.com/Moral-Victory/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Moral-Victory/Leetcode/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/Moral-Victory/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Moral-Victory/Leetcode/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Moral-Victory/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Moral-Victory/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Moral-Victory/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/Moral-Victory/Leetcode/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Moral-Victory/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Moral-Victory/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Moral-Victory/Leetcode/tree/master/1390-four-divisors) |
