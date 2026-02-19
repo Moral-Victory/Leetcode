@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Moral-Victory/Leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
 | [0409-longest-palindrome](https://github.com/Moral-Victory/Leetcode/tree/master/0409-longest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/Moral-Victory/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Moral-Victory/Leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/Moral-Victory/Leetcode/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/Moral-Victory/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Moral-Victory/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Moral-Victory/Leetcode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/Moral-Victory/Leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
