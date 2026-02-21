@@ -1,27 +1,52 @@
 class Solution {
 public:
-    int strStr(string haystack, string needle) {
-        int first=0;
-        int second=0;
-        int n=haystack.size();
-        int m=needle.size();
-        for(int i=0; i<=(n-m); i++){
-            first=i;
-            second=0;
-            while(second<m){
-                if(haystack[first]!=needle[second]){
-                    break;
+    
+    void lps_find(string s, vector<int>& LPS) {
+        int n=s.size();
+        // vector<int> LPS(n, 0);
+        int pref=0;
+        int suff=1;
+        while(suff<n){
+            if(s[pref]==s[suff]){
+                LPS[suff]=pref+1;
+                suff++;
+                pref++;
+            }
+            else{
+                if(pref==0){
+                    LPS[suff]=0;
+                    suff++;
                 }
                 else{
-                    first++;
-                    second++;
-                }
-                if(second==m){
-                    return first-second;
+                    pref=LPS[pref-1];
                 }
             }
-            
+        }
+    }
+
+    int strStr(string haystack, string needle) {
+        vector<int> LPS(needle.size(), 0);
+        lps_find(needle, LPS);
+        int first=0;
+        int second=0;
+        while(first<haystack.size() && second<needle.size()){
+            if(haystack[first]==needle[second]){
+                first++;
+                second++;
+            }
+            else{
+                if(second==0){
+                    first++;
+                }
+                else{
+                    second=LPS[second-1];   
+                }
+            }
+        }
+        if(second==needle.size()){
+            return first-second;
         }
         return -1;
+
     }
 };
