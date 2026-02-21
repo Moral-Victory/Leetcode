@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Moral-Victory/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Moral-Victory/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Moral-Victory/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -469,4 +470,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
