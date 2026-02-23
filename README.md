@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Moral-Victory/Leetcode/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/Moral-Victory/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0606-construct-string-from-binary-tree](https://github.com/Moral-Victory/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0686-repeated-string-match](https://github.com/Moral-Victory/Leetcode/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Moral-Victory/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Moral-Victory/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Moral-Victory/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
