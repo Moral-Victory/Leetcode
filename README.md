@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Moral-Victory/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Moral-Victory/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Moral-Victory/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moral-Victory/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/Moral-Victory/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Moral-Victory/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Moral-Victory/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Moral-Victory/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Moral-Victory/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/Moral-Victory/Leetcode/tree/master/0886-possible-bipartition) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Moral-Victory/Leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/Moral-Victory/Leetcode/tree/master/0886-possible-bipartition) |
 | [1361-validate-binary-tree-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Graph Theory
