@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Moral-Victory/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Moral-Victory/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/Moral-Victory/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Moral-Victory/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Moral-Victory/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Moral-Victory/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
