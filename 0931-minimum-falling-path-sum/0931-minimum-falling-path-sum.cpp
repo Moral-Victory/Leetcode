@@ -21,27 +21,30 @@ public:
         int n=matrix.size();
         int m=matrix[0].size();
         int ans=INT_MAX;
-        vector<vector<int>>dp(n, vector<int>(m, -1));
+        // vector<vector<int>>dp(n, vector<int>(m, -1));
         // for(int j=0; j<m; j++){
         //     ans=min(ans, solve(n-1, j, matrix, n, m, dp));
         // }
+        vector<int> dp(m, -1);
         for(int j=0; j<m; j++){
-            dp[0][j]=matrix[0][j];
+            dp[j]=matrix[0][j];
         }
 
         for(int i=1; i<n; i++){
+            vector<int> temp(m, -1);
             for(int j=0; j<m; j++){
                 int left_diag=INT_MAX;
-                if(j>0) left_diag=dp[i-1][j-1];
-                int up=dp[i-1][j];
+                if(j>0) left_diag=dp[j-1];
+                int up=dp[j];
                 int right_diag=INT_MAX;
-                if(j<m-1) right_diag=dp[i-1][j+1];
-                dp[i][j]=matrix[i][j]+min(min(left_diag, up), right_diag);
+                if(j<m-1) right_diag=dp[j+1];
+                temp[j]=matrix[i][j]+min(min(left_diag, up), right_diag);
             }
+            dp=temp;
         }
 
         for(int j = 0; j < m; j++){
-            ans = min(ans, dp[n-1][j]);
+            ans = min(ans, dp[j]);
         }
         return ans;
     }
