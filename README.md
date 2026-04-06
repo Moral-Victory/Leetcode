@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Moral-Victory/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/Moral-Victory/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Moral-Victory/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Moral-Victory/Leetcode/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Moral-Victory/Leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Moral-Victory/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Moral-Victory/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
