@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Moral-Victory/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Moral-Victory/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Moral-Victory/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Moral-Victory/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Moral-Victory/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Moral-Victory/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0931-minimum-falling-path-sum) |
