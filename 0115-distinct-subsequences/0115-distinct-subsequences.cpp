@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i, int j, string s, string t, vector<vector<int>>& dp){
+    int solve(int i, int j, string& s, string& t, vector<vector<int>>& dp){
         if(j<0){
             return 1;
         }
