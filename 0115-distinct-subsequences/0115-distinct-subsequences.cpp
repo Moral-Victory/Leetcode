@@ -33,17 +33,30 @@ public:
         for(int i=1; i<=n; i++){
             prev[i]=0;
         }
+        // for(int i=1; i<=m; i++){
+        //     for(int j=1; j<=n; j++){
+        //         if(s[i-1]==t[j-1]){
+        //         curr[j]= prev[j-1] + prev[j];
+        //         }
+        //     else{
+        //         curr[j]= prev[j];
+        //         }
+        //     }
+        //     prev=curr;
+        // }
+
         for(int i=1; i<=m; i++){
-            for(int j=1; j<=n; j++){
+            for(int j=n; j>=1; j--){
                 if(s[i-1]==t[j-1]){
-                curr[j]= prev[j-1] + prev[j];
+                prev[j]= prev[j-1] + prev[j];
                 }
             else{
-                curr[j]= prev[j];
+                prev[j]= prev[j];
                 }
             }
-            prev=curr;
         }
+
+
         return (int)prev[n];
 
     }
