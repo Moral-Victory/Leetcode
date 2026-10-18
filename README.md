@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Moral-Victory/Leetcode/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Moral-Victory/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3637-trionic-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3637-trionic-array-i) |
 ## Stack
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Moral-Victory/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Moral-Victory/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3829-design-ride-sharing-system](https://github.com/Moral-Victory/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Two Pointers
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Moral-Victory/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Moral-Victory/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Moral-Victory/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Moral-Victory/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
 | ------- |
