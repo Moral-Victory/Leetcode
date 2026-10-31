@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Moral-Victory/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3637-trionic-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3637-trionic-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Moral-Victory/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Moral-Victory/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Moral-Victory/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Moral-Victory/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Moral-Victory/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/Moral-Victory/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Moral-Victory/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Moral-Victory/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Moral-Victory/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
