@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Moral-Victory/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Moral-Victory/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/Moral-Victory/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Moral-Victory/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -365,12 +366,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Moral-Victory/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Moral-Victory/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Moral-Victory/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Moral-Victory/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Moral-Victory/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Moral-Victory/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Moral-Victory/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
