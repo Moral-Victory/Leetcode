@@ -17,11 +17,20 @@ public:
     }
     
     int add(int val) {
-        pq.push(val);
-        if(pq.size()>k){
-                pq.pop();
-        }
+        // pq.push(val);
+        // if(pq.size()>k){
+        //         pq.pop();
+        // }
 
+        // return pq.top();
+
+        if (pq.size() < k) {
+            pq.push(val);
+        } else if (val > pq.top()) {
+            pq.pop();
+            pq.push(val);
+        }
+        
         return pq.top();
 
 
