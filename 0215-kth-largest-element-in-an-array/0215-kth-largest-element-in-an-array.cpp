@@ -20,7 +20,7 @@ public:
                 j--;
             }
         }
-        swap(nums[j], nums[low]);
+        swap(nums[j], nums[pivot_ind]);
         return j;
     }
 
