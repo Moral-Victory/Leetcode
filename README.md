@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Moral-Victory/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Moral-Victory/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/Moral-Victory/Leetcode/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Moral-Victory/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Moral-Victory/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Moral-Victory/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Moral-Victory/Leetcode/tree/master/0480-sliding-window-median) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Moral-Victory/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/Moral-Victory/Leetcode/tree/master/1046-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/Moral-Victory/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Moral-Victory/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Moral-Victory/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
