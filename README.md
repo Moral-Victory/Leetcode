@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Moral-Victory/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Moral-Victory/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Moral-Victory/Leetcode/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Moral-Victory/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Moral-Victory/Leetcode/tree/master/0733-flood-fill) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Moral-Victory/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0480-sliding-window-median](https://github.com/Moral-Victory/Leetcode/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Moral-Victory/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Moral-Victory/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Moral-Victory/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Moral-Victory/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Moral-Victory/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/Moral-Victory/Leetcode/tree/master/0480-sliding-window-median) |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Moral-Victory/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Moral-Victory/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Moral-Victory/Leetcode/tree/master/1046-last-stone-weight) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Moral-Victory/Leetcode/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Moral-Victory/Leetcode/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/Moral-Victory/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Moral-Victory/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Moral-Victory/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Moral-Victory/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Moral-Victory/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Moral-Victory/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Moral-Victory/Leetcode/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/Moral-Victory/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/Moral-Victory/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Moral-Victory/Leetcode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Moral-Victory/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
